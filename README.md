@@ -69,14 +69,30 @@
 ---
 
 <div align="center">
+### ˚ ༘♡ ⋆｡˚ github stats ˚｡⋆ ♡༘ ˚
 
-### ✿ github stats ✿
-
-<img src="https://github-readme-stats.vercel.app/api?username=lyraZeno&show_icons=true&theme=radical&bg_color=ffe4e8&title_color=c9184a&icon_color=ff85a1&text_color=5c2d3e&border_color=ffb6c1&border_radius=15&hide_border=false" width="48%"/>
-&nbsp; 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyraZeno&layout=compact&theme=radical&bg_color=ffe4e8&title_color=c9184a&text_color=5c2d3e&border_color=ffb6c1&border_radius=15&hide_border=false" width="42%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lyraZeno&theme=pinkish&background=ffe4e8&border=ffb6c1&ring=ff85a1&fire=c9184a&currStreakLabel=c9184a" width="60%"/>
-
+<br>
+ 
+<table border="0" cellspacing="10" cellpadding="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=lyraZeno&show_icons=true&bg_color=0d1117&title_color=ff85a1&icon_color=ff85a1&text_color=ffc8dd&border_color=ffb6c1&border_radius=15&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyraZeno&layout=compact&bg_color=0d1117&title_color=ff85a1&text_color=ffc8dd&border_color=ffb6c1&border_radius=15&hide_border=false&langs_count=6" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyraZeno&background=0d1117&border=ffb6c1&ring=ff85a1&fire=c9184a&currStreakLabel=ff85a1&sideLabels=ff85a1&sideNums=ffc8dd&currStreakNum=ffc8dd&dates=ffc8dd&stroke=ffb6c1" width="65%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyraZeno&bg_color=0d1117&color=ff85a1&line=ffb3c6&point=ff85a1&area=true&hide_border=true&area_color=1a0a0f&radius=8" width="100%"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -84,21 +100,19 @@
 <div align="center">
 
 ### ♡ find me ♡
+<img src="https://i.postimg.cc/pXcNKHFN/planeicon-(1).png" width="200"/>
 
 [![GitHub](https://img.shields.io/badge/github-ffb6c1?style=for-the-badge&logo=github&logoColor=5c2d3e)](https://github.com/lyraZeno)
-[![Gmail](https://img.shields.io/badge/gmail-f9a8c9?style=for-the-badge&logo=gmail&logoColor=5c2d3e)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/gmail-f9a8c9?style=for-the-badge&logo=gmail&logoColor=5c2d3e)](mailto:@email.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-ffc8dd?style=for-the-badge&logo=linkedin&logoColor=5c2d3e)](https://linkedin.com)
 
 <br/>
 
-```
+
 ╔═══════════════════════════════════════╗
 ║  thanks for visiting  ♡  have a      ║
 ║  lovely day, you deserve it  ✿       ║
 ╚═══════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/>
 
 </div>
 
