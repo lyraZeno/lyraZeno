@@ -65,7 +65,10 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-ffc8dd?style=for-the-badge&logoColor=5c2d3e)
  
 </div>
+
 ---
+
+<div align="center">
 
 ### ✿ github stats ✿
 
