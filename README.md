@@ -16,7 +16,7 @@
 
 <div align="justify">
   <h3>𝒉𝒆𝒍𝒍𝒐, 𝒊'𝒎 𝑨𝒓𝒖𝒔𝒉𝒊 ✨</h3>
-  An AI & Robotics learner who loves building things that didn't exist before — apps, games, bots, intelligent systems, anything creative. I enjoy exploring new technologies, learning through projects that actually challenge me, and making ideas feel real. ✿
+  An AI & Robotics learner who loves building things that didn't exist before — apps, games, bots, intelligent systems, anything creative. I enjoy exploring new technologies, learning through projects that actually challenge me and making ideas feel real. ✿
   <br><br>
 
   🌷 I love turning ideas into things that actually exist <br/>
