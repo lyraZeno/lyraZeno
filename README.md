@@ -105,7 +105,7 @@
 <img src="https://i.postimg.cc/pXcNKHFN/planeicon-(1).png" width="200"/>
 
 [![GitHub](https://img.shields.io/badge/github-ffb6c1?style=for-the-badge&logo=github&logoColor=5c2d3e)](https://github.com/lyraZeno)
-[![Gmail](https://img.shields.io/badge/gmail-f9a8c9?style=for-the-badge&logo=gmail&logoColor=5c2d3e)](mailto:@skytraffic4@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-f9a8c9?style=for-the-badge&logo=gmail&logoColor=5c2d3e)](mailto:skytraffic4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-ffc8dd?style=for-the-badge&logo=linkedin&logoColor=5c2d3e)](https://linkedin.com)
 
 <pre align="center">
