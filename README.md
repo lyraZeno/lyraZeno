@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=✿%20arushi%20✿&fontSize=60&fontColor=fff&fontAlignY=38&desc=lyraZeno%20·%20on%20github&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://i.postimg.cc/mZM342ms/Untitled-design.png"/>
 </div>
 
 <div align="center">
