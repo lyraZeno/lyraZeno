@@ -12,26 +12,21 @@
 
 </div>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="160" valign="middle" align="center">
-      <img src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="140px"/>
-    </td>
-    <td valign="middle" align="left" style="padding: 0 20px;">
-      <h3>𝒉𝒆𝒍𝒍𝒐, 𝒊'𝒎 𝑨𝒓𝒖𝒔𝒉𝒊 ✨</h3>
-      <em>still figuring things out, one commit at a time 🌸</em>
-      <br/><br/>
-      🌷 I love turning ideas into things that actually exist <br/>
-      🎮 currently building, learning &amp; exploring <br/>
-      🍓 probably overthinking my next project <br/>
-      ✨ pixel art &amp; cozy things make me happy <br/>
-    </td>
-    <td width="160" valign="middle" align="center">
-      <img src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="140px"/>
-    </td>
-  </tr>
-</table>
+<img src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="210" align="left" style="margin-right: 15px;">
 
+<div align="justify">
+  <h3>𝒉𝒆𝒍𝒍𝒐, 𝒊'𝒎 𝑨𝒓𝒖𝒔𝒉𝒊 ✨</h3>
+  An AI & Robotics learner who loves building things that didn't exist before — apps, games, bots, intelligent systems, anything creative. I enjoy exploring new technologies, learning through projects that actually challenge me, and making ideas feel real. ✿
+  <br><br>
+
+  🌷 I love turning ideas into things that actually exist <br/>
+  🎮 currently building, learning & exploring <br/>
+  🍓 probably overthinking my next project <br/>
+  ✨ pixel art & cozy things make me happy <br/>
+</div>
+
+<br clear="left"/>
+<br clear="right"/>
 </div>
 
 ---
