@@ -12,19 +12,25 @@
 
 </div>
 
-img align="right" src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="180px"/>
-### 𝒉𝒆𝒍𝒍𝒐, 𝒊'𝒎 𝑨𝒓𝒖𝒔𝒉𝒊 ✨
- 
-> still figuring things out, one commit at a time 🌸
- 
-- 🌷 I love turning ideas into things that actually exist
-- 🎮 currently building, learning & exploring
-- 🍓 probably overthinking my next project
-- ✨ pixel art & cozy things make me happy
-<img align="left" src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="180px"/>
-<br clear="right"/>
-<br/><br/><br/><br/><br/><br/>
-<br clear="left"/>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td width="160" valign="middle" align="center">
+      <img src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="140px"/>
+    </td>
+    <td valign="middle" align="left" style="padding: 0 20px;">
+      <h3>𝒉𝒆𝒍𝒍𝒐, 𝒊'𝒎 𝑨𝒓𝒖𝒔𝒉𝒊 ✨</h3>
+      <em>still figuring things out, one commit at a time 🌸</em>
+      <br/><br/>
+      🌷 I love turning ideas into things that actually exist <br/>
+      🎮 currently building, learning &amp; exploring <br/>
+      🍓 probably overthinking my next project <br/>
+      ✨ pixel art &amp; cozy things make me happy <br/>
+    </td>
+    <td width="160" valign="middle" align="center">
+      <img src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="140px"/>
+    </td>
+  </tr>
+</table>
 ---
 
 <div align="center">
