@@ -12,19 +12,19 @@
 
 </div>
 
-<img align="right" src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="180px"/>
-
+img align="right" src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="180px"/>
 ### 𝒉𝒆𝒍𝒍𝒐, 𝒊'𝒎 𝑨𝒓𝒖𝒔𝒉𝒊 ✨
-
-> *still figuring things out, one commit at a time* 🌸
-
+ 
+> still figuring things out, one commit at a time 🌸
+ 
 - 🌷 I love turning ideas into things that actually exist
 - 🎮 currently building, learning & exploring
 - 🍓 probably overthinking my next project
 - ✨ pixel art & cozy things make me happy
-
+<img align="left" src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="180px"/>
 <br clear="right"/>
-
+<br/><br/><br/><br/><br/><br/>
+<br clear="left"/>
 ---
 
 <div align="center">
