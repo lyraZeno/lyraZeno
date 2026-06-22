@@ -108,26 +108,16 @@
 [![Gmail](https://img.shields.io/badge/gmail-f9a8c9?style=for-the-badge&logo=gmail&logoColor=5c2d3e)](mailto:@email.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-ffc8dd?style=for-the-badge&logo=linkedin&logoColor=5c2d3e)](https://linkedin.com)
 
-<br/>
+<pre align="center">
+┌─────────────────────────────────────────────────────┐
+│  ♡  thanks for visiting  ♡  have a lovely day   ♡  │
+└─────────────────────────────────────────────────────┘
+</pre>
 
-╔═══════════════════════════════════════╗
-║  thanks for visiting  ♡  have a      ║
-║  lovely day, you deserve it  ✿       ║
-╚═══════════════════════════════════════╝
-
+<div align="center">
+  <img src="https://i.postimg.cc/hP8LYLnv/image.gif" />
 </div>
 
-<!--
-**lyraZeno/lyraZeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
