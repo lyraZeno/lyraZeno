@@ -12,7 +12,7 @@
 
 </div>
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180px"/>
+<img align="right" src="https://i.postimg.cc/xCXw8bcv/clove-icon.png" width="180px"/>
 
 ### 𝒉𝒆𝒍𝒍𝒐, 𝒊'𝒎 𝑨𝒓𝒖𝒔𝒉𝒊 ✨
 
