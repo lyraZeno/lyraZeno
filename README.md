@@ -24,9 +24,7 @@
   🍓 probably overthinking my next project <br/>
   ✨ pixel art & cozy things make me happy <br/>
 </div>
-
-<br clear="left"/>
-<br clear="right"/>
+<br>
 </div>
 
 ---
