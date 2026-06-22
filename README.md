@@ -36,38 +36,42 @@
 </div>
 
 <div align="center">
-
+  
 **languages**
-
-![Java](https://img.shields.io/badge/Java-ffb6c1?style=for-the-badge&logo=openjdk&logoColor=5c2d3e)
-![C++](https://img.shields.io/badge/C++-f9a8c9?style=for-the-badge&logo=cplusplus&logoColor=5c2d3e)
+ 
+![C++](https://img.shields.io/badge/C++-ffb6c1?style=for-the-badge&logo=cplusplus&logoColor=5c2d3e)
+![Python](https://img.shields.io/badge/Python-f9a8c9?style=for-the-badge&logo=python&logoColor=5c2d3e)
 ![SQL](https://img.shields.io/badge/SQL-ffc8dd?style=for-the-badge&logo=mysql&logoColor=5c2d3e)
-![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=5c2d3e)
-
+![Java](https://img.shields.io/badge/Java-ffb6c1?style=for-the-badge&logo=openjdk&logoColor=5c2d3e)
+![HTML](https://img.shields.io/badge/HTML-f9a8c9?style=for-the-badge&logo=html5&logoColor=5c2d3e)
+![CSS](https://img.shields.io/badge/CSS-ffc8dd?style=for-the-badge&logo=css3&logoColor=5c2d3e)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=5c2d3e)
+![Octave](https://img.shields.io/badge/Octave-f9a8c9?style=for-the-badge&logo=octave&logoColor=5c2d3e)
+ 
 **tools & more**
-
+ 
 ![Git](https://img.shields.io/badge/Git-ffc8dd?style=for-the-badge&logo=git&logoColor=5c2d3e)
 ![GitHub](https://img.shields.io/badge/GitHub-f9a8c9?style=for-the-badge&logo=github&logoColor=5c2d3e)
 ![VS Code](https://img.shields.io/badge/VS_Code-ffb6c1?style=for-the-badge&logo=visualstudiocode&logoColor=5c2d3e)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-ffc8dd?style=for-the-badge&logo=intellijidea&logoColor=5c2d3e)
-
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-f9a8c9?style=for-the-badge&logo=cisco&logoColor=5c2d3e)
+![Cisco](https://img.shields.io/badge/Cisco-ffb6c1?style=for-the-badge&logo=cisco&logoColor=5c2d3e)
+![Wireshark](https://img.shields.io/badge/Wireshark-ffc8dd?style=for-the-badge&logo=wireshark&logoColor=5c2d3e)
+ 
 **currently learning**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-f9a8c9?style=for-the-badge&logoColor=5c2d3e)
-![Data Science](https://img.shields.io/badge/Data_Science-ffb6c1?style=for-the-badge&logoColor=5c2d3e)
-
+ 
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-f9a8c9?style=for-the-badge&logoColor=5c2d3e)
+![Robotics](https://img.shields.io/badge/Robotics-ffb6c1?style=for-the-badge&logoColor=5c2d3e)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-ffc8dd?style=for-the-badge&logoColor=5c2d3e)
+ 
 </div>
-
 ---
 
 ### ✿ github stats ✿
 
 <img src="https://github-readme-stats.vercel.app/api?username=lyraZeno&show_icons=true&theme=radical&bg_color=ffe4e8&title_color=c9184a&icon_color=ff85a1&text_color=5c2d3e&border_color=ffb6c1&border_radius=15&hide_border=false" width="48%"/>
-&nbsp;
+&nbsp; 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyraZeno&layout=compact&theme=radical&bg_color=ffe4e8&title_color=c9184a&text_color=5c2d3e&border_color=ffb6c1&border_radius=15&hide_border=false" width="42%"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyraZeno&theme=pinkish&background=ffe4e8&border=ffb6c1&ring=ff85a1&fire=c9184a&currStreakLabel=c9184a" width="60%"/>
 
 </div>
