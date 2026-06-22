@@ -60,55 +60,6 @@
 
 ---
 
-<div align="center">
-
-### ♡ pixel adventures ♡
-*things i've built with love (and too many late nights)*
-
-</div>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>🌸 project one</h4>
-      <img src="https://img.shields.io/badge/Java-ffb6c1?style=flat-square&logo=openjdk&logoColor=5c2d3e"/>
-      <img src="https://img.shields.io/badge/Android-ffc8dd?style=flat-square&logo=android&logoColor=5c2d3e"/>
-      <br/><br/>
-      <em>something i built. something i'm proud of.</em>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>🍓 project two</h4>
-      <img src="https://img.shields.io/badge/Python-ffb6c1?style=flat-square&logo=python&logoColor=5c2d3e"/>
-      <img src="https://img.shields.io/badge/SQL-f9a8c9?style=flat-square&logo=mysql&logoColor=5c2d3e"/>
-      <br/><br/>
-      <em>another thing that started as a wild idea.</em>
-      <br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>🎀 project three</h4>
-      <img src="https://img.shields.io/badge/C++-f9a8c9?style=flat-square&logo=cplusplus&logoColor=5c2d3e"/>
-      <br/><br/>
-      <em>still in progress. always in progress.</em>
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>✨ project four</h4>
-      <img src="https://img.shields.io/badge/Java-ffb6c1?style=flat-square&logo=openjdk&logoColor=5c2d3e"/>
-      <img src="https://img.shields.io/badge/LibGDX-ffc8dd?style=flat-square&logoColor=5c2d3e"/>
-      <br/><br/>
-      <em>a little world i made from scratch.</em>
-      <br/>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
 ### ✿ github stats ✿
 
 <img src="https://github-readme-stats.vercel.app/api?username=lyraZeno&show_icons=true&theme=radical&bg_color=ffe4e8&title_color=c9184a&icon_color=ff85a1&text_color=5c2d3e&border_color=ffb6c1&border_radius=15&hide_border=false" width="48%"/>
