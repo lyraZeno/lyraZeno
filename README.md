@@ -69,6 +69,7 @@
 ---
 
 <div align="center">
+
 ### ˚ ༘♡ ⋆｡˚ github stats ˚｡⋆ ♡༘ ˚
 
 <br>
@@ -93,6 +94,7 @@
     </td>
   </tr>
 </table>
+
 </div>
 
 ---
@@ -107,7 +109,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-ffc8dd?style=for-the-badge&logo=linkedin&logoColor=5c2d3e)](https://linkedin.com)
 
 <br/>
-
 
 ╔═══════════════════════════════════════╗
 ║  thanks for visiting  ♡  have a      ║
